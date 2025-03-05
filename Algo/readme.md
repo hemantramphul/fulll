@@ -24,5 +24,5 @@ node .\Algo\answer\fizzbuzz.js
 
 ---
 
-Author: [Hemant Ramphul](https://github.com/hemantramphul/)
-<i>Date: Feb 23, 2025<i/>
+Author: [Hemant Ramphul](https://github.com/hemantramphul/)<br/>
+<sup>Date: Feb 23, 2025</sup>
