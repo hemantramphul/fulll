@@ -2,9 +2,13 @@
 
 Run the FizzBuzz JavaScript program in `Node.js`.
 
+---
+
 ### Requirements
 
 - `Node.js` installed on your machine.
+
+---
 
 ### Running the script
 
