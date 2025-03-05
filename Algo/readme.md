@@ -1,5 +1,7 @@
 # FizzBuzz
 
+[![Live Code](https://img.shields.io/badge/View%20Live%20Code-PlayCode.io-blue?style=for-the-badge&logo=javascript)](https://playcode.io/2282980)
+
 Run the FizzBuzz JavaScript program in `Node.js`.
 
 ---
@@ -25,11 +27,6 @@ Run the FizzBuzz JavaScript program in `Node.js`.
 ```
 node .\Algo\answer\fizzbuzz.js
 ```
-
----
-
-### View Live
-[![PlayCode](https://img.shields.io/badge/View%20Live-PlayCode.io-blue?style=for-the-badge&logo=javascript)](https://playcode.io/2282980)
 
 ---
 
