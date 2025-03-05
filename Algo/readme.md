@@ -28,6 +28,11 @@ node .\Algo\answer\fizzbuzz.js
 
 ---
 
+### View Live
+[![PlayCode](https://img.shields.io/badge/View%20Live-PlayCode.io-blue?style=for-the-badge&logo=javascript)](https://playcode.io/2282980)
+
+---
+
 ### Author
 
 [Hemant Ramphul](https://github.com/hemantramphul/)<br/>
