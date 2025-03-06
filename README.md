@@ -22,13 +22,6 @@ A system to track where each vehicle is parked, with a CLI for management and da
 
 > **Note:** If using **CodeSandbox**, you can skip the installation step and go directly to the [CLI commands](https://github.com/hemantramphul/fulll/tree/main/Backend#example).
 
-<iframe src="https://codesandbox.io/p/devbox/y3ytzj?embed=1&file=%2Fpackage.json"
-     style="width:100%; height: 500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="Vehicle Fleet Management"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
-
 ---
 
 ### Author
