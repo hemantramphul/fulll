@@ -1,15 +1,16 @@
 import { ParkVehicleCommand } from "../Command/ParkVehicleCommand";
+import { FleetRepository } from "../../Infra/FleetRepository";
 
 export class ParkVehicleHandler {
-  constructor(private fleetRepository: any) {}
+  constructor(private readonly fleetRepository: FleetRepository) {}
 
-  execute(command: ParkVehicleCommand): void {
-    const fleet = this.fleetRepository.getById(command.fleetId);
-    if (!fleet) {
-      throw new Error("Fleet not found");
-    }
-
-    fleet.parkVehicle(command.vehicleId, command.location);
-    this.fleetRepository.save(fleet);
+  async execute(command: ParkVehicleCommand): Promise<void> {
+    await this.fleetRepository.updateVehicleLocation(
+      command.fleetId,
+      command.vehicleId, // plateNumber
+      command.location.latitude,
+      command.location.longitude,
+      command.altitude
+    );
   }
 }

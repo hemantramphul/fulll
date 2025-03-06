@@ -19,13 +19,10 @@ export class Fleet {
   }
 
   parkVehicle(vehicleId: string, location: Location): void {
-    if (!this.vehicles.has(vehicleId)) {
+    if (!this.hasVehicle(vehicleId)) {
       throw new Error("Vehicle is not registered in the fleet");
     }
-    if (
-      this.vehicleLocations.has(vehicleId) &&
-      this.vehicleLocations.get(vehicleId)?.isEqual(location)
-    ) {
+    if (this.vehicleLocations.get(vehicleId)?.isEqual(location)) {
       throw new Error("Vehicle is already parked at this location");
     }
     this.vehicleLocations.set(vehicleId, location);
