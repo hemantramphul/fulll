@@ -4,7 +4,7 @@
 
 This project allows users to **manage a fleet of vehicles**, register vehicles, and track their parking locations.
 
-In **[Step 1](https://github.com/hemantramphul/fulll/tree/step1/Backend)**, the focus is on **building the core functionality** of the fleet management system.
+In **[`step1`](https://github.com/hemantramphul/fulll/tree/step1/Backend)**, the focus is on **building the core functionality** of the fleet management system.
 
 It is implemented using:
 
