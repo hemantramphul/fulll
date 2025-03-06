@@ -12,6 +12,7 @@ A classic problem printing numbers `1` to `N` with `"Fizz"`, `"Buzz"`, or `"Fizz
 <a href="https://playcode.io/2282980" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/View%20Live%20Code-PlayCode.io-blue?style=for-the-badge&logo=javascript" alt="PlayCode">
 </a>
+[go](http://stackoverflow.com){:target="\_blank" rel="noopener"}
 
 ---
 
