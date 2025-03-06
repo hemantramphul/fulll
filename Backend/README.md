@@ -18,8 +18,8 @@ This step **transforms Step 1 into a complete application** by:
 
 ### Project versions
 
-👉 **[Step 1](https://github.com/hemantramphul/fulll/tree/step1) - Available in the [`step1`](https://github.com/hemantramphul/fulll/tree/step1) branch**  
-👉 **[Step 2](https://github.com/hemantramphul/fulll/Backend) - Available in the [`main`](https://github.com/hemantramphul/fulll/Backend) branch**  
+👉 **[Step 1](https://github.com/hemantramphul/fulll/tree/step1/Backend) - Available in the [`step1`](https://github.com/hemantramphul/fulll/tree/step1/Backend) branch**  
+👉 **[Step 2](https://github.com/hemantramphul/fulll/tree/step2/Backend) - Available in the [`main`](https://github.com/hemantramphul/fulll/tree/step2/Backend) branch**  
 👉 **[Step 3](#step-3---project-code-quality--cicd-process) - Project (code quality & CI/CD process)**
 
 ---
