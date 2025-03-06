@@ -9,7 +9,7 @@
 A classic problem printing numbers `1` to `N` with `"Fizz"`, `"Buzz"`, or `"FizzBuzz"` based on divisibility rules.
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/hemantramphul/fulll/tree/main/Algo)<br/>
-<a href="https://playcode.io/2282980" target="_blank">
+<a href="https://playcode.io/2282980" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/View%20Live%20Code-PlayCode.io-blue?style=for-the-badge&logo=javascript" alt="PlayCode">
 </a>
 
@@ -20,7 +20,7 @@ A classic problem printing numbers `1` to `N` with `"Fizz"`, `"Buzz"`, or `"Fizz
 A system to track where each vehicle is parked, with a CLI for management and database persistence.
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/hemantramphul/fulll/tree/main/Backend)<br/>
-<a href="https://codesandbox.io/p/devbox/y3ytzj" target="_blank">
+<a href="https://codesandbox.io/p/devbox/y3ytzj" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=for-the-badge&logo=codesandbox" alt="CodeSandbox">
 </a>
 
