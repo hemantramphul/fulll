@@ -2,7 +2,7 @@
 
 ### Overview
 
-In **Step 2**, I extend **Step 1** by **making the system accessible via a Command Line Interface (CLI)**.
+In [`step2`](https://github.com/hemantramphul/fulll/tree/step2/Backend), I extend [`step1`](https://github.com/hemantramphul/fulll/tree/step1/Backend) by **making the system accessible via a Command Line Interface (CLI)**.
 
 This step **transforms Step 1 into a complete application** by:
 
@@ -19,7 +19,7 @@ This step **transforms Step 1 into a complete application** by:
 ### Project versions
 
 👉 **[Step 1](https://github.com/hemantramphul/fulll/tree/step1) - Available in the [`step1`](https://github.com/hemantramphul/fulll/tree/step1) branch**  
-👉 **[Step 2](https://github.com/hemantramphul/fulll) - Available in the [`main`](https://github.com/hemantramphul/fulll) branch**  
+👉 **[Step 2](https://github.com/hemantramphul/fulll/Backend) - Available in the [`main`](https://github.com/hemantramphul/fulll/Backend) branch**  
 👉 **[Step 3](#step-3---project-code-quality--cicd-process) - Project (code quality & CI/CD process)**
 
 ---
