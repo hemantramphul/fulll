@@ -16,9 +16,9 @@ It is implemented using:
 
 ### Project versions
 
-👉 **[Step 1](https://github.com/hemantramphul/fulll/tree/step1/Backend) - Available in the [`step1`](https://github.com/hemantramphul/fulll/tree/step1/Backend) branch**  
-👉 **[Step 2](https://github.com/hemantramphul/fulll) - Available in the [`main`](https://github.com/hemantramphul/fulll) branch**  
-👉 **[Step 3](https://github.com/hemantramphul/fulll#step-3---project-code-quality--cicd-process) - Project (code quality & CI/CD process)**
+👉 **[Step 1](https://github.com/hemantramphul/fulll/tree/step1/Backend) - Available in the [`step1`](https://github.com/hemantramphul/fulll/tree/step1/Backend) branch** <br/>
+👉 **[Step 2](https://github.com/hemantramphul/fulll/tree/step2/Backend) - Available in the [`step2`](https://github.com/hemantramphul/fulll/tree/step2/Backend) and [`main`](https://github.com/hemantramphul/fulll/tree/main/Backend) branches** <br/>
+👉 **[Step 3](#step-3---project-code-quality--cicd-process) - Project (code quality & CI/CD process)** <br/>
 
 ---
 
