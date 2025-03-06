@@ -1,10 +1,16 @@
 # FizzBuzz
 
+[![Live Code](https://img.shields.io/badge/View%20Live%20Code-PlayCode.io-blue?style=for-the-badge&logo=javascript)](https://playcode.io/2282980)
+
 Run the FizzBuzz JavaScript program in `Node.js`.
+
+---
 
 ### Requirements
 
 - `Node.js` installed on your machine.
+
+---
 
 ### Running the script
 
@@ -24,5 +30,7 @@ node .\Algo\answer\fizzbuzz.js
 
 ---
 
-Author: [Hemant Ramphul](https://github.com/hemantramphul/)
-<i>Date: Feb 23, 2025<i/>
+### Author
+
+[Hemant Ramphul](https://github.com/hemantramphul/)<br/>
+<sup>23 February, 2025</sup>
